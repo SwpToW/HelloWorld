@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 
 create a new branch called dev.
 create a new branch called feature.
+
+create a new branch called dev.
